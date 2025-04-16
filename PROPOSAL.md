@@ -6,7 +6,10 @@ Semantic Plagiarism Detection Task using a Bangla Paraphrase
 
 **Reasons for Choosing this Dataset:** 
 
-There are mainly two reasons for selecting this dataset. One is that the dataset contains Bangla sentence pairs labelled as paraphrases or non-paraphrases, which is essential for detecting semantic plagiarism. The second reason, or we can say the motivation behind the choice of this dataset, is that since semantic plagiarism detection is a growing concern, especially with AI-generated content, this dataset provides an ideal test case. Actually, much work has been done in this particular area on high-resource languages, but I want to know how low-resource languages like Bangla work using transformers. 
+There are mainly two reasons for selecting this dataset. One is that the dataset contains Bangla sentence pairs labelled as paraphrases or non-paraphrases, which is essential for detecting semantic plagiarism. The second reason, or we can say the motivation behind the choice of this dataset, is that since semantic plagiarism detection is a growing concern, especially with AI-generated content, this dataset provides an ideal test case. 
+
+**How Model will Differ from Existing one:**
+Actually, much work has been done in this particular area on high-resource languages like English, but I want to know how low-resource languages like Bangla work using transformers for Semantic Plagiarism Detection Task.  
 
 Dataset from Hugging Face: [https://huggingface.co/datasets/bracealround/BnPC-A-Gold-Standard-Bangla-Paraphrase-Corpus](https://huggingface.co/datasets/bracealround/BnPC-A-Gold-Standard-Bangla-Paraphrase-Corpus) 
 
