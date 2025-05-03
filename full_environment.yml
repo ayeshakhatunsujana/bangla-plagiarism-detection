@@ -1,0 +1,16 @@
+
+name: bangla-plagiarism-detector
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - pytorch
+  - transformers>=4.30.0
+  - nltk
+  - bert-score
+  - rouge-score
+  - pip:
+      - indic-nlp-library
