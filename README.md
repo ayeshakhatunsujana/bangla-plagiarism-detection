@@ -47,3 +47,12 @@ In conclusion one observation I would like to share is that paraphrase generatio
 -  Clone the repository
 -  Install dependencies
 -  I have also attched the code in zip file into the D2L
+
+### References
+
+1. Whale, J., Gipp, B., & Ruas, T. (2023). Paraphrase types for generation and detection. *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 12148–12164.
+
+2. Prajapati, M., Dora, C., Baliarsingh, S. K., Bhoi, A., Hota, J., & Mohanty, J. P. (2024). Detection of AI-generated text using a large language model. *Proceedings of the 2024 International Conference on Emerging System and Intelligent Computing*, 735–740.
+
+3. Whale, J., Ruas, T., Kistein, F., & Gipp, B. (2022). How large language models are transforming machine-paraphrase plagiarism. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 952–963.
+
